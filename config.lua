@@ -1,5 +1,5 @@
-TrafficAmount = 0 
-PedestrianAmount = 0
+TrafficAmount = 1
+PedestrianAmount = 1
 ParkedAmount = 0
 EnableDispatch = false
 EnableBoats = false
