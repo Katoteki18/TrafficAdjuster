@@ -1,6 +1,5 @@
-fx_version 'bodacious'
-
-game 'gta5'
+fx_version 'cerulean'
+games { 'rdr3', 'gta5' }
 
 client_scripts {
 	"config.lua",
