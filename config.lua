@@ -1,6 +1,5 @@
-TrafficAmount = 0
-PedestrianAmount = 0
-ParkedAmount = 0
+Promet = 0
+NPCOVI = 0
 EnableDispatch = false
 EnableBoats = false
 EnableTrains = false
